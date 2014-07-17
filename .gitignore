@@ -1,0 +1,30 @@
+# xcode noise
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+*.xcscheme
+*.mode1
+*.mode2v3
+*.mode1v3
+*project.pbxproj
+xcuserdata
+Snapshots
+
+# AppCode IDE noise
+.idea/*
+
+# osx noise
+.DS_Store
+
+# cocoapods noise
+Pods/*
+
+# Python noise
+*.pyc
+
+# GYP noise
+xcodebuild/
+src/**/*.xcodeproj/
+   
+DerivedData/
